@@ -1,3 +1,3 @@
-# Example InSpec Profile
+# InSpec Profile for Cockroach
 
-This example shows the implementation of an InSpec profile.
+This shows the implementation of an InSpec profile for Cockroach.
